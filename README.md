@@ -2,7 +2,7 @@
 
 Project Overview : Aim of the project is to analyse the provided sample data and report key findings to the strategy team of Eastern Bank. This analysis is expected to guide them in tailoring the credit cards to customer needs and market trends.
 
-Live Dashboard Link: https://app.powerbi.com/groups/me/reports/27968ef1-5b3e-41c5-aa08-be417c665e0c/ReportSection6b0a4b37c2dd4c37e4a7?experience=power-bi
+Live Dashboard Link: https://codebasics.io/portfolio/Vishesh-Roy
 
 Description:
 
